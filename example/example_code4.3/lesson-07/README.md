@@ -39,4 +39,5 @@ https://www.elecrow.com/pub/wiki/7.Advance_wirelessmodule_lorawan.html
  
 
 ## **Video** **tutorial link**：
+https://youtu.be/7SWwTssfDV8
 
