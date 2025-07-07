@@ -130,43 +130,70 @@ C:\Users\Documents\Arduino\libraries\
 ### 7,Pin definition
 
 #define HSPI_MISO  4
+
 #define HSPI_MOSI  6
+
 #define HSPI_SCLK  5
+
 #define HSPI_SS    19
 
 #define SD_MOSI 6
+
 #define SD_MISO 4
+
 #define SD_SCK 5
+
 #define SD_CS 0 //The chip selector pin is not connected to IO
 
 #define I2S_DOUT 4
+
 #define I2S_BCLK 5
+
 #define I2S_LRC 6
 
 ​      cfg.pin_d0 = GPIO_NUM_21;    // B0
+
 ​      cfg.pin_d1 = GPIO_NUM_47;    // B1
+
 ​      cfg.pin_d2 = GPIO_NUM_48;   // B2
+
 ​      cfg.pin_d3 = GPIO_NUM_45;    // B3
+
 ​      cfg.pin_d4 = GPIO_NUM_38;    // B4
+
 ​      cfg.pin_d5 = GPIO_NUM_9;    // G0
+
 ​      cfg.pin_d6 = GPIO_NUM_10;    // G1
+
 ​      cfg.pin_d7 = GPIO_NUM_11;    // G2
+
 ​      cfg.pin_d8 = GPIO_NUM_12;   // G3
+
 ​      cfg.pin_d9 = GPIO_NUM_13;   // G4
+
 ​      cfg.pin_d10 = GPIO_NUM_14;   // G5
+
 ​      cfg.pin_d11 = GPIO_NUM_7;  // R0
+
 ​      cfg.pin_d12 = GPIO_NUM_17;  // R1
+
 ​      cfg.pin_d13 = GPIO_NUM_18;  // R2
+
 ​      cfg.pin_d14 = GPIO_NUM_3;  // R3
+
 ​      cfg.pin_d15 = GPIO_NUM_46;  // R4
 
       cfg.pin_henable = GPIO_NUM_42;
+      
       cfg.pin_vsync = GPIO_NUM_41;
+      
       cfg.pin_hsync = GPIO_NUM_40;
+      
       cfg.pin_pclk = GPIO_NUM_39;
 
 
 #define TOUCH_GT911_SCL 16
+
 #define TOUCH_GT911_SDA 15
 
 ### 8,Guidelines for downloading some of the files from the github repository
