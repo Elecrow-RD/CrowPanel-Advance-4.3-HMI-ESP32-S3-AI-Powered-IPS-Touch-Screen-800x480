@@ -27,7 +27,7 @@
 ② Version 1.1 has a new option for function switching, see above for details. When using the case, please select the corresponding program to test or modify according to the version number of your motherboard.
 
 ## Version 1.2
-Updated the button components.
+Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
 
 
 ### 3, product information
@@ -38,7 +38,7 @@ Updated the button components.
 | System Memory                                | 512KB SRAM、8M PSRAM                                         |
 | Memory                                       | 16M Flash，384KB ROM                                         |
 | Development Language                         | MicroPython、C/C++                                           |
-| Development Environment                      | ESP-IDF、Arduino IDE、PlatformIO、Micro Python、LVGL         |
+| Development Environment                      | ESP-IDF、Arduino IDE、PlatformIO、MicroPython         |
 | **Screen**                                   |                                                              |
 | Size                                         | 4.3 inch                                                     |
 | Diver IC                                     | ST7265                                                       |
